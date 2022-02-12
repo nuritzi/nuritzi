@@ -2,7 +2,7 @@
 
 My name is Nuritzi and I'm a friendly person who loves open source, traveling, wine, and photography!
 
-In my dayjob, I'm a Sr. Program Manager at Google. I'm based in California and I often travelt to Germany. 
+In my dayjob, I'm a Sr. Program Manager at Google. I'm based in California and I often travel to Germany. 
 
 I speak: English, Spanish, and Itialian. In that order. 
 
