@@ -4,7 +4,7 @@ My name is Nuritzi and I'm a friendly person who loves open source, traveling, w
 
 In my dayjob, I'm a Sr. Program Manager at Google. I'm based in California and I often travel to Germany. 
 
-I speak: English, Spanish, and Itialian. In that order. I know. Why not German, you ask. Because it's a tricky language 😅
+I speak: English, Spanish, and Itialian. In that order. I know. Why not German, you ask. Because it's a work in progress 😅
 
 My passion for open source started in 2012 when I first learned about it. I care a lot about social impact, and I love that open source allows people to collaborate across the globe. Open source enables people to solve to the challenges that they see in their areas, and it is something that is based on the principle of freedom. 
 
